@@ -1,4 +1,3 @@
-# wore-house-orders
 
 ## Project setup
 ```
